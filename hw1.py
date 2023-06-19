@@ -7,4 +7,4 @@ def is_polindrom(word):
 
 
 if __name__ == "__main__":
-    print(is_polindrom('alla'))
+    print(is_polindrom('лепсспел'))
